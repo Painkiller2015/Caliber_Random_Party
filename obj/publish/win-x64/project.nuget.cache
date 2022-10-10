@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eucsOHzxanu8U0PTSARugcr1olBAW6mgQWUNuaJbGEX6HTjtK/ssTENTCMFDjQ1H3XutrG9AG1V5tEpwd1x2YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Painkiller\\source\\repos\\Caliber_Random_Party\\Caliber_Random_Party.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Painkiller\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.0-rc.1.22426.10\\microsoft.netcore.app.runtime.win-x64.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Painkiller\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.0-rc.1.22426.10\\microsoft.netcore.app.crossgen2.win-x64.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Painkiller\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.0-rc.1.22427.1\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.0-rc.1.22427.1.nupkg.sha512",
+    "C:\\Users\\Painkiller\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.app.runtime.win-x64.7.0.0-rc.1.22427.2.nupkg.sha512"
+  ],
+  "logs": []
+}

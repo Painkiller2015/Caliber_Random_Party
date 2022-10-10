@@ -1,0 +1,15 @@
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\bin\Debug\net7.0\Caliber_Random_Party.exe
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\bin\Debug\net7.0\Caliber_Random_Party.deps.json
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\bin\Debug\net7.0\Caliber_Random_Party.runtimeconfig.json
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\bin\Debug\net7.0\Caliber_Random_Party.dll
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\bin\Debug\net7.0\Caliber_Random_Party.pdb
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\Caliber_Random_Party.csproj.AssemblyReference.cache
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\Caliber_Random_Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\Caliber_Random_Party.AssemblyInfoInputs.cache
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\Caliber_Random_Party.AssemblyInfo.cs
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\Caliber_Random_Party.csproj.CoreCompileInputs.cache
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\Caliber_Random_Party.dll
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\refint\Caliber_Random_Party.dll
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\Caliber_Random_Party.pdb
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\Caliber_Random_Party.genruntimeconfig.cache
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\obj\Debug\net7.0\ref\Caliber_Random_Party.dll

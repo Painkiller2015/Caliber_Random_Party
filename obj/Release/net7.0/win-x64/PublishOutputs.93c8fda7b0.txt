@@ -1,0 +1,2 @@
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\bin\Release\net7.0\publish\win-x64\Caliber_Random_Party.pdb
+C:\Users\Painkiller\source\repos\Caliber_Random_Party\bin\Release\net7.0\publish\win-x64\Caliber_Random_Party.exe
